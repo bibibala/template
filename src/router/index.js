@@ -8,7 +8,7 @@ const router = createRouter({
             redirect: {name: 'entry'}
         },
         {
-            path: '/Entry',
+            path: '/entry',
             name: 'entry',
             component: () => import('../views/entry/index.vue')
         }
