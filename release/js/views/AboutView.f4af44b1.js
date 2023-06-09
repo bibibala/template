@@ -1,0 +1,1 @@
+import{openBlock as t,createElementBlock as e,createElementVNode as o}from"vue";import{_}from"../index.72c1ffa4.js";import"vue-router";import"../vendor/vendor.35289e56.js";import"vuetify";import"pinia";const n={},s={class:"about"},c=o("h1",null,"This is an about page",-1),r=[c];function i(a,m){return t(),e("div",s,r)}const b=_(n,[["render",i]]);export{b as default};
