@@ -15,7 +15,6 @@ module.exports = {
         'no-var': 'off',
         'eqeqeq': 'error',
         'camelcase': 'error',
-        'indent': ['error', 4],
         'no-fallthrough': 'warn',
         'block-scoped-var': 'off',
         'callback-return': 'warn',
